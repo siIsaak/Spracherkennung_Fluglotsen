@@ -1,0 +1,14 @@
+C:/Users/Simon/source/repos/FlugLotsen/FlugLotsen/CMakeFiles/ALL_BUILD.dir
+C:/Users/Simon/source/repos/FlugLotsen/FlugLotsen/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Simon/source/repos/FlugLotsen/FlugLotsen/ToolBoxInputs/libglobal/CMakeFiles/libglobal.dir
+C:/Users/Simon/source/repos/FlugLotsen/FlugLotsen/ToolBoxInputs/libglobal/CMakeFiles/ALL_BUILD.dir
+C:/Users/Simon/source/repos/FlugLotsen/FlugLotsen/ToolBoxInputs/liblogtrace/CMakeFiles/ALL_BUILD.dir
+C:/Users/Simon/source/repos/FlugLotsen/FlugLotsen/ToolBoxInputs/liblogtrace/logtrace/CMakeFiles/liblogtrace.dir
+C:/Users/Simon/source/repos/FlugLotsen/FlugLotsen/ToolBoxInputs/liblogtrace/logtrace/CMakeFiles/ALL_BUILD.dir
+C:/Users/Simon/source/repos/FlugLotsen/FlugLotsen/ToolBoxInputs/libutil/CMakeFiles/libutil.dir
+C:/Users/Simon/source/repos/FlugLotsen/FlugLotsen/ToolBoxInputs/libutil/CMakeFiles/ALL_BUILD.dir
+C:/Users/Simon/source/repos/FlugLotsen/FlugLotsen/ToolBoxInputs/libASR/CMakeFiles/libasr.dir
+C:/Users/Simon/source/repos/FlugLotsen/FlugLotsen/ToolBoxInputs/libASR/CMakeFiles/ALL_BUILD.dir
+C:/Users/Simon/source/repos/FlugLotsen/FlugLotsen/lib/CMakeFiles/libCommandExtraction.dir
+C:/Users/Simon/source/repos/FlugLotsen/FlugLotsen/lib/CMakeFiles/ALL_BUILD.dir
+C:/Users/Simon/source/repos/FlugLotsen/FlugLotsen/test/CMakeFiles/testCommandExtraction.dir

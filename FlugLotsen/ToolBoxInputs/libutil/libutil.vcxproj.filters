@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\ToolBoxInputs\libutil\FileName.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\ToolBoxInputs\libutil\FileUtil.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\ToolBoxInputs\libutil\StringUtil.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\ToolBoxInputs\libutil\FileName.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\ToolBoxInputs\libutil\FileUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\ToolBoxInputs\libutil\StringUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\ToolBoxInputs\libutil\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{CB5DA72D-B705-36A5-A74A-368F02E5FD44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{450FCFFC-031A-39BE-A2BB-2A42000F59AC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

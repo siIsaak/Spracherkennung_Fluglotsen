@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\test\main.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\test\TestExtractNumbersWordString.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\test\TestFileUtil.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\test\TestStringUtil.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\test\TestAtcoCommand.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\test\CallsignExtractorTest.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\test\CmdExtractorDirTest.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\test\TestCmdExtractorDir.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\test\TestExtractNumbersWordString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\test\TestFileUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\test\TestStringUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\test\TestAtcoCommand.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\test\testMakros.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\test\CmdExtractorDirTest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\test\CallsignExtractorTest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\test\TestCmdExtractorDir.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\test\googleTestEmulation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\test\dosFarben.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\test\disable_warnings_google_tests_vs2019.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\Data\WordSeqPlusCmds.txt">
+      <Filter>Data Files</Filter>
+    </None>
+    <None Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\Data\OneUttOneCmd.txt">
+      <Filter>Data Files</Filter>
+    </None>
+    <None Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\Data\commandExtraction.ids">
+      <Filter>Data Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Data Files">
+      <UniqueIdentifier>{859D474A-6D19-30C2-A105-5278A2754EBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{CB5DA72D-B705-36A5-A74A-368F02E5FD44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{450FCFFC-031A-39BE-A2BB-2A42000F59AC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

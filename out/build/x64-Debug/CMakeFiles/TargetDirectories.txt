@@ -1,0 +1,5 @@
+C:/Users/Simon/source/repos/FlugLotsen/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Simon/source/repos/FlugLotsen/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Simon/source/repos/FlugLotsen/out/build/x64-Debug/CodeVorgaben/CMakeFiles/edit_cache.dir
+C:/Users/Simon/source/repos/FlugLotsen/out/build/x64-Debug/CodeVorgaben/CMakeFiles/CodeVorgaben.dir
+C:/Users/Simon/source/repos/FlugLotsen/out/build/x64-Debug/CodeVorgaben/CMakeFiles/rebuild_cache.dir
