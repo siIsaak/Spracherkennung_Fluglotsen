@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\ToolBoxInputs\libASR\CallsignToWordsConverter.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\ToolBoxInputs\libASR\CallsignExtractorBase.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\ToolBoxInputs\libASR\GetDirPrefix.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\ToolBoxInputs\libASR\CallsignToWordsConverter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\ToolBoxInputs\libASR\CallsignExtractorBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\ToolBoxInputs\libASR\GetDirPrefix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\ToolBoxInputs\libASR\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\ToolBoxInputs\libASR\data\designators.json">
+      <Filter>Data Files</Filter>
+    </None>
+    <None Include="C:\Users\Simon\Desktop\07_ExeCallSignExtraction\07_ExeCallSignExtraction\ToolBoxInputs\libASR\data\additions.json">
+      <Filter>Data Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Data Files">
+      <UniqueIdentifier>{B227459C-07EA-3269-B6C8-D6F2BD3F6164}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{340DDCD8-5CF1-3965-B67C-9AB117A936A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BD135750-0D23-3CDB-9045-738FD385F59D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
