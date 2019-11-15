@@ -1,0 +1,14 @@
+C:/Users/Simon/Source/Repos/siIsaak/Spracherkennung_Fluglotsen/CMakeFiles/ALL_BUILD.dir
+C:/Users/Simon/Source/Repos/siIsaak/Spracherkennung_Fluglotsen/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Simon/Source/Repos/siIsaak/Spracherkennung_Fluglotsen/ToolBoxInputs/libglobal/CMakeFiles/libglobal.dir
+C:/Users/Simon/Source/Repos/siIsaak/Spracherkennung_Fluglotsen/ToolBoxInputs/libglobal/CMakeFiles/ALL_BUILD.dir
+C:/Users/Simon/Source/Repos/siIsaak/Spracherkennung_Fluglotsen/ToolBoxInputs/liblogtrace/CMakeFiles/ALL_BUILD.dir
+C:/Users/Simon/Source/Repos/siIsaak/Spracherkennung_Fluglotsen/ToolBoxInputs/liblogtrace/logtrace/CMakeFiles/liblogtrace.dir
+C:/Users/Simon/Source/Repos/siIsaak/Spracherkennung_Fluglotsen/ToolBoxInputs/liblogtrace/logtrace/CMakeFiles/ALL_BUILD.dir
+C:/Users/Simon/Source/Repos/siIsaak/Spracherkennung_Fluglotsen/ToolBoxInputs/libutil/CMakeFiles/libutil.dir
+C:/Users/Simon/Source/Repos/siIsaak/Spracherkennung_Fluglotsen/ToolBoxInputs/libutil/CMakeFiles/ALL_BUILD.dir
+C:/Users/Simon/Source/Repos/siIsaak/Spracherkennung_Fluglotsen/ToolBoxInputs/libASR/CMakeFiles/libasr.dir
+C:/Users/Simon/Source/Repos/siIsaak/Spracherkennung_Fluglotsen/ToolBoxInputs/libASR/CMakeFiles/ALL_BUILD.dir
+C:/Users/Simon/Source/Repos/siIsaak/Spracherkennung_Fluglotsen/lib/CMakeFiles/libCommandExtraction.dir
+C:/Users/Simon/Source/Repos/siIsaak/Spracherkennung_Fluglotsen/lib/CMakeFiles/ALL_BUILD.dir
+C:/Users/Simon/Source/Repos/siIsaak/Spracherkennung_Fluglotsen/test/CMakeFiles/testCommandExtraction.dir
